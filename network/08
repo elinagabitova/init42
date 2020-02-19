@@ -1,1 +1,2 @@
-whois slash16.org | awk '/Name Server/ {print $3}'
+amazon web server
+// whois slash16.org | awk '/Name Server/ {print $3}'
