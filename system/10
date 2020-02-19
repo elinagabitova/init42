@@ -1,1 +1,1 @@
-fdisk -l
+du -s /var/log/
