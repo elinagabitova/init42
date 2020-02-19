@@ -1,3 +1,3 @@
 #!/bin/bash
-pkill -u iser
+pkill -u user
 deluser --remove-home -f user
