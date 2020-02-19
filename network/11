@@ -1,1 +1,2 @@
-192.168.20.1
+traceroute to slash16.org (13.33.243.186), 64 hops max, 52 byte packets
+ 1  192.168.20.1 (192.168.20.1)  1.426 ms  0.984 ms  1.102 ms
