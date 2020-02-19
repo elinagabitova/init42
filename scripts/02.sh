@@ -1,3 +1,3 @@
-USER=$1
-pgrep -u $USER | killall -9 -u $USER
-deluser --remove-home $USER
+#!/bin/bash
+pkill -u iser
+deluser --remove-home -f user
