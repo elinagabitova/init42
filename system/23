@@ -1,1 +1,1 @@
-su - username
+ssh -p ** username@ip-address
